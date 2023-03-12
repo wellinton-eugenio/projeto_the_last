@@ -129,18 +129,53 @@ h1 {
     color: var(--color-grey-2);
   }
   
-  section > ul {
+section > ul {
     width: 800px;
-  }
+}
+.ep1 {
+    height: 139px;
+    width: 261px;
+    background-image: url("../images/inside/survival.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+}
   
-  section > ul > li {
+.ep2 {
     height: 139px;
     width: 261px;
     background-image: url("../images/inside/relationship.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top right;
-  }
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ep3 {
+    height: 139px;
+    width: 261px;
+    background-image: url("../images/inside/adventure.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 500;
+}
   
 
 .episodes {
@@ -165,6 +200,7 @@ h1 {
     font-size: 22px;
     font-weight: 400;
     line-height: 26px;
+    margin-bottom: 20px;
   }
   
   .episodes-list {
