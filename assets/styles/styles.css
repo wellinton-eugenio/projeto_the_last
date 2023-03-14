@@ -273,7 +273,7 @@ footer > figure > img {
     width: 140px;
 }
   
-.container > section > h2 {
+.footer-title {
    height: 47px;
     width: 668px;
     left: 5446px;
@@ -285,7 +285,7 @@ footer > figure > img {
     color: var(--color-grey-2);
 }
   
-.container > section > h3 {
+.footer-title2 {
     height: 31px;
     width: 449px;
     font-family: Iceland;
